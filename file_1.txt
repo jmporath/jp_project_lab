@@ -1,3 +1,6 @@
 Insert three lines of text
 into blank file
 keep it short and work-safe
+Hi JP!
+I'm entering 3 lines of text
+to your file_1.txt
