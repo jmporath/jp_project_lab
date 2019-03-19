@@ -1,0 +1,3 @@
+Insert three lines of text
+into blank file
+keep it short and work-safe
